@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/AgriVerse/static/css/main.1a99a0f6.css",
-    "main.js": "/AgriVerse/static/js/main.d4688ced.js",
+    "main.js": "/AgriVerse/static/js/main.2a52ac2f.js",
     "static/js/453.ad6eb26e.chunk.js": "/AgriVerse/static/js/453.ad6eb26e.chunk.js",
     "static/media/FarmingPicture1.jpg": "/AgriVerse/static/media/FarmingPicture1.71240d0c170c1c9d4711.jpg",
     "static/media/AgriVerseBodyLogo.png": "/AgriVerse/static/media/AgriVerseBodyLogo.8ba05d44c5efb02fa6e6.png",
+    "static/media/Vegetation_map.PNG": "/AgriVerse/static/media/Vegetation_map.8ed57738e1005a9baab6.PNG",
+    "static/media/Dust Storm_map.PNG": "/AgriVerse/static/media/Dust Storm_map.88f2d6c83cbeba4429fe.PNG",
     "static/media/AgriVerseLogo.png": "/AgriVerse/static/media/AgriVerseLogo.f404a2e176c29a3e2da9.png",
-    "static/media/Dams.svg": "/AgriVerse/static/media/Dams.94c8d49fcc0f9f490ed029c18e97fded.svg",
-    "static/media/Precipitation.svg": "/AgriVerse/static/media/Precipitation.a120e6014fceacfe210bdb4ac706104f.svg",
-    "static/media/Soil Moisture.svg": "/AgriVerse/static/media/Soil Moisture.af5c52d91fff3b870780fa1b6687a633.svg",
-    "static/media/Flooding.svg": "/AgriVerse/static/media/Flooding.e410f77f36ff79414e7002d07ff00ce9.svg",
-    "static/media/Drought.svg": "/AgriVerse/static/media/Drought.9ecda2359adc5911de7f2635a2fa9add.svg",
-    "static/media/DamsLegend.svg": "/AgriVerse/static/media/DamsLegend.e432c34f891d60b92c2c8d22adf05f69.svg",
-    "static/media/PrecipatationLegend.svg": "/AgriVerse/static/media/PrecipatationLegend.847ac4a5021a74d6062c0ef5690cdab8.svg",
-    "static/media/DroughtLegend.svg": "/AgriVerse/static/media/DroughtLegend.8340746f0631c55f0856a22a053f1d56.svg",
+    "static/media/Severe Storms_map.PNG": "/AgriVerse/static/media/Severe Storms_map.9e6089eb6144f7392579.PNG",
+    "static/media/Drought Hazards_map.PNG": "/AgriVerse/static/media/Drought Hazards_map.66042c104ce008e51386.PNG",
+    "static/media/Vegetation Legend.png": "/AgriVerse/static/media/Vegetation Legend.d651892cdf1df0557b3c.png",
+    "static/media/Drought Hazard.png": "/AgriVerse/static/media/Drought Hazard.4a00a718769d3c3b2e63.png",
+    "static/media/Dust Storm.png": "/AgriVerse/static/media/Dust Storm.270ddb4736f7cc2e18f5.png",
+    "static/media/Severe Storm.png": "/AgriVerse/static/media/Severe Storm.47a6787c699567f4345e.png",
+    "static/media/Fires and Thermal Anomalies_map.PNG": "/AgriVerse/static/media/Fires and Thermal Anomalies_map.709a6984e4087b756904.PNG",
+    "static/media/Fires and Thermal Anomalies.png": "/AgriVerse/static/media/Fires and Thermal Anomalies.99903ce9f5f8a75710bd.png",
     "static/media/user.png": "/AgriVerse/static/media/user.557587208eb9e232f2ca.png",
-    "static/media/FloodingLegend.svg": "/AgriVerse/static/media/FloodingLegend.1908b526c024426b45b8eae7943d5637.svg",
-    "static/media/Soil MoistureLegend.svg": "/AgriVerse/static/media/Soil MoistureLegend.9f96a185441aa0062492fa9de83773a8.svg",
     "static/media/github.png": "/AgriVerse/static/media/github.f11021803f68852df283.png",
     "static/media/email.png": "/AgriVerse/static/media/email.9d4fb065e6679439a9a3.png",
     "index.html": "/AgriVerse/index.html",
     "main.1a99a0f6.css.map": "/AgriVerse/static/css/main.1a99a0f6.css.map",
-    "main.d4688ced.js.map": "/AgriVerse/static/js/main.d4688ced.js.map",
+    "main.2a52ac2f.js.map": "/AgriVerse/static/js/main.2a52ac2f.js.map",
     "453.ad6eb26e.chunk.js.map": "/AgriVerse/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a99a0f6.css",
-    "static/js/main.d4688ced.js"
+    "static/js/main.2a52ac2f.js"
   ]
 }
