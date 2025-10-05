@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AgriVerse/static/css/main.47f349ce.css",
-    "main.js": "/AgriVerse/static/js/main.024334bc.js",
-    "static/js/453.ad6eb26e.chunk.js": "/AgriVerse/static/js/453.ad6eb26e.chunk.js",
+    "main.js": "/AgriVerse/static/js/main.c43eaae0.js",
+    "static/js/453.424a281b.chunk.js": "/AgriVerse/static/js/453.424a281b.chunk.js",
     "static/media/FarmingPicture1.jpg": "/AgriVerse/static/media/FarmingPicture1.71240d0c170c1c9d4711.jpg",
     "static/media/AgriVerseBodyLogo.png": "/AgriVerse/static/media/AgriVerseBodyLogo.8ba05d44c5efb02fa6e6.png",
     "static/media/Vegetation_map.PNG": "/AgriVerse/static/media/Vegetation_map.8ed57738e1005a9baab6.PNG",
@@ -16,18 +16,18 @@
     "static/media/Severe Storm.png": "/AgriVerse/static/media/Severe Storm.47a6787c699567f4345e.png",
     "static/media/Fires and Thermal Anomalies_map.PNG": "/AgriVerse/static/media/Fires and Thermal Anomalies_map.709a6984e4087b756904.PNG",
     "static/media/Fires and Thermal Anomalies.png": "/AgriVerse/static/media/Fires and Thermal Anomalies.99903ce9f5f8a75710bd.png",
-    "static/media/Yubiry_González.jpeg": "/AgriVerse/static/media/Yubiry_González.c6fa657df339caef86a3.jpeg",
+    "static/media/Yubiry_Gonzalez.jpeg": "/AgriVerse/static/media/Yubiry_Gonzalez.c6fa657df339caef86a3.jpeg",
     "static/media/Sana_Raza.jpeg": "/AgriVerse/static/media/Sana_Raza.f5ce7d0a90d1e527e55f.jpeg",
     "static/media/user.png": "/AgriVerse/static/media/user.557587208eb9e232f2ca.png",
     "static/media/github.png": "/AgriVerse/static/media/github.f11021803f68852df283.png",
     "static/media/email.png": "/AgriVerse/static/media/email.9d4fb065e6679439a9a3.png",
     "index.html": "/AgriVerse/index.html",
     "main.47f349ce.css.map": "/AgriVerse/static/css/main.47f349ce.css.map",
-    "main.024334bc.js.map": "/AgriVerse/static/js/main.024334bc.js.map",
-    "453.ad6eb26e.chunk.js.map": "/AgriVerse/static/js/453.ad6eb26e.chunk.js.map"
+    "main.c43eaae0.js.map": "/AgriVerse/static/js/main.c43eaae0.js.map",
+    "453.424a281b.chunk.js.map": "/AgriVerse/static/js/453.424a281b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47f349ce.css",
-    "static/js/main.024334bc.js"
+    "static/js/main.c43eaae0.js"
   ]
 }
