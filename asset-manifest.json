@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AgriVerse/static/css/main.47f349ce.css",
-    "main.js": "/AgriVerse/static/js/main.c43eaae0.js",
+    "main.css": "/AgriVerse/static/css/main.5f7679c4.css",
+    "main.js": "/AgriVerse/static/js/main.446fb475.js",
     "static/js/453.424a281b.chunk.js": "/AgriVerse/static/js/453.424a281b.chunk.js",
     "static/media/FarmingPicture1.jpg": "/AgriVerse/static/media/FarmingPicture1.71240d0c170c1c9d4711.jpg",
     "static/media/AgriVerseBodyLogo.png": "/AgriVerse/static/media/AgriVerseBodyLogo.8ba05d44c5efb02fa6e6.png",
@@ -22,12 +22,12 @@
     "static/media/github.png": "/AgriVerse/static/media/github.f11021803f68852df283.png",
     "static/media/email.png": "/AgriVerse/static/media/email.9d4fb065e6679439a9a3.png",
     "index.html": "/AgriVerse/index.html",
-    "main.47f349ce.css.map": "/AgriVerse/static/css/main.47f349ce.css.map",
-    "main.c43eaae0.js.map": "/AgriVerse/static/js/main.c43eaae0.js.map",
+    "main.5f7679c4.css.map": "/AgriVerse/static/css/main.5f7679c4.css.map",
+    "main.446fb475.js.map": "/AgriVerse/static/js/main.446fb475.js.map",
     "453.424a281b.chunk.js.map": "/AgriVerse/static/js/453.424a281b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f349ce.css",
-    "static/js/main.c43eaae0.js"
+    "static/css/main.5f7679c4.css",
+    "static/js/main.446fb475.js"
   ]
 }
