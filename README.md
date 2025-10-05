@@ -1,4 +1,5 @@
 # 🚀 OrbitX Engineers — NASA Space Apps Challenge 2025 🌎  
+![NASA Space Apps Challenge 2025](<NASA_Space_Apps Challenge_2025.jpeg>)
 
   
 > **Official Open Source Project** built for the **NASA Space Apps Challenge 2025**  
